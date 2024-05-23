@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- Row 1 -->
-  <div style="text-align: center; margin: 10px; width: 200px;">
+  <div style="text-align: center; margin: 10px; width: 200px; flex-direction➡️">
     <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/ce74db45-0033-41a1-98ee-8b413fa8e49e" alt="Profile Update" width="200"/>
   </div>
   
