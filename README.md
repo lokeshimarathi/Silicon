@@ -6,7 +6,7 @@ SignUp
 <br>
   ![SplashScreen](https://github.com/lokeshimarathi/Silicon/assets/115028627/37790309-da16-4cdf-a624-371608368bf6)
   <br>
-  Splash Screen
+  <h6>Splash Screen</h6>
 
 
   ![WelcomeScreen](https://github.com/lokeshimarathi/Silicon/assets/115028627/0af1c6fe-d4f4-4389-9d00-781628134419)
