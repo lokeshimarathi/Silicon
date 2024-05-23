@@ -20,6 +20,14 @@
     <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/cacdf73b-d7d4-40fc-a5ac-0969a31cea5b" alt="Public" width="200"/>
     
   </div>
+   <div style="text-align: center; margin: 10px; width: 200px;">
+    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/00accdef-0f7e-4284-8f2a-bdd2ef253040" alt="Face Authentication" width="200"/>
+   
+  </div>
+   <div style="text-align: center; margin: 10px; width: 200px;">
+    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/720804e5-a2ff-4129-9a59-5dc9121d16df" alt="SignUp Screen" width="200"/>
+   
+  </div>
   <div style="text-align: center; margin: 10px; width: 200px;">
     <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/c5a554ea-e0f0-453d-b70b-513493f702b0" alt="Splash Screen" width="200"/>
   
@@ -30,16 +38,10 @@
  
   </div>
 
-  <div style="text-align: center; margin: 10px; width: 200px;">
-    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/720804e5-a2ff-4129-9a59-5dc9121d16df" alt="SignUp Screen" width="200"/>
-   
-  </div>
+ 
 
   <!-- Second Row -->
-  <div style="text-align: center; margin: 10px; width: 200px;">
-    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/00accdef-0f7e-4284-8f2a-bdd2ef253040" alt="Face Authentication" width="200"/>
-   
-  </div>
+ 
 
  
 
