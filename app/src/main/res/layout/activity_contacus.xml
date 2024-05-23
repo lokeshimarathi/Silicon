@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".AboutActivity">
+
+
+    <ImageView
+        android:id="@+id/imageEmail"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:tint="@color/md_theme_dark_primary"
+        app:srcCompat="@drawable/ic_email"
+        app:layout_constraintTop_toTopOf="parent">
+    </ImageView>
+
+    <TextView
+        android:id="@+id/txtMail"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="Email: info@faceplugin.com"
+        app:layout_constraintStart_toEndOf="@id/imageEmail"
+        app:layout_constraintTop_toTopOf="@id/imageEmail"
+        app:layout_constraintBottom_toBottomOf="@id/imageEmail"
+        >
+    </TextView>
+
+    <ImageView
+        android:id="@+id/imageSkype"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="8dp"
+        app:tint="@color/md_theme_dark_primary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageEmail"
+        app:srcCompat="@drawable/ic_skype" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="Skype: live:.cid.6f515492327084aa"
+        app:layout_constraintStart_toEndOf="@id/imageSkype"
+        app:layout_constraintTop_toTopOf="@id/imageSkype"
+        app:layout_constraintBottom_toBottomOf="@id/imageSkype"
+        >
+    </TextView>
+
+    <ImageView
+        android:id="@+id/imageTelegram"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="8dp"
+        app:tint="@color/md_theme_dark_primary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageSkype"
+        app:srcCompat="@drawable/ic_telegram"></ImageView>
+
+    <TextView
+        android:id="@+id/txtTelegram"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="Telegram: https://t.me/faceplugin"
+        app:layout_constraintStart_toEndOf="@id/imageTelegram"
+        app:layout_constraintTop_toTopOf="@id/imageTelegram"
+        app:layout_constraintBottom_toBottomOf="@id/imageTelegram"
+        >
+    </TextView>
+
+    <ImageView
+        android:id="@+id/imageWhatsApp"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="8dp"
+        app:tint="@color/md_theme_dark_primary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageTelegram"
+        app:srcCompat="@drawable/ic_whatsapp"></ImageView>
+
+    <TextView
+        android:id="@+id/txtWhatsapp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="WhatsApp: +14422295661"
+        app:layout_constraintStart_toEndOf="@id/imageWhatsApp"
+        app:layout_constraintTop_toTopOf="@id/imageWhatsApp"
+        app:layout_constraintBottom_toBottomOf="@id/imageWhatsApp"
+        >
+    </TextView>
+
+    <ImageView
+        android:id="@+id/imageGithub"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="8dp"
+        app:tint="@color/md_theme_dark_primary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageWhatsApp"
+        app:srcCompat="@drawable/ic_github"/>
+
+    <TextView
+        android:id="@+id/txtGithub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="Github: https://github.com/Faceplugin-ltd"
+        app:layout_constraintStart_toEndOf="@id/imageGithub"
+        app:layout_constraintTop_toTopOf="@id/imageGithub"
+        app:layout_constraintBottom_toBottomOf="@id/imageGithub"
+        android:autoLink="web"/>
+
+    <TextView
+        android:id="@+id/bt"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text=""
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtGithub"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
