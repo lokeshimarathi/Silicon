@@ -2,6 +2,8 @@
 
 ### Android base integrated security system to prevent fraudulent activities
 
+
+### Anyone can integrate this security system in their App!
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- First Row -->
@@ -47,3 +49,10 @@
   </div>
 
 </div>
+
+
+
+
+
+
+
