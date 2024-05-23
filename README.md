@@ -2,8 +2,6 @@
 <br>
 <h3>Android base integrated security system to prevent fraudulent activities</h3>
 <br>
-SignUp
-<br>
   ![SplashScreen](https://github.com/lokeshimarathi/Silicon/assets/115028627/37790309-da16-4cdf-a624-371608368bf6)
   <br>
  Splash Screen
