@@ -12,7 +12,14 @@
   
    
   </div>
-
+  <div style="text-align: center; margin: 10px; width: 200px;">
+    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/7e16dd65-979c-4a8d-b4a3-9ac104b23f4e" alt="Upload" width="200"/>
+    
+  </div>
+ <div style="text-align: center; margin: 10px; width: 200px;">
+    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/cacdf73b-d7d4-40fc-a5ac-0969a31cea5b" alt="Public" width="200"/>
+    
+  </div>
   <div style="text-align: center; margin: 10px; width: 200px;">
     <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/c5a554ea-e0f0-453d-b70b-513493f702b0" alt="Splash Screen" width="200"/>
   
@@ -34,15 +41,9 @@
    
   </div>
 
-  <div style="text-align: center; margin: 10px; width: 200px;">
-    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/cacdf73b-d7d4-40fc-a5ac-0969a31cea5b" alt="Public" width="200"/>
-    
-  </div>
+ 
 
-  <div style="text-align: center; margin: 10px; width: 200px;">
-    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/7e16dd65-979c-4a8d-b4a3-9ac104b23f4e" alt="Upload" width="200"/>
-    
-  </div>
+  
 
   <div style="text-align: center; margin: 10px; width: 200px;">
      <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/3c9c4762-c8aa-40b2-99b1-d8df5dfa188f" alt="Overall" width="200"/>
