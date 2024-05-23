@@ -3,7 +3,7 @@
 ### Android base integrated security system to prevent fraudulent activities
 
 
-### Anyone can integrate this security system in their App!
+### Anyone can integrate this security system into their app to prevent fraudulent activities
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <div style="text-align: center; margin: 10px; width: 200px;">
