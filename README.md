@@ -8,7 +8,8 @@
 
   <!-- First Row -->
   <div style="text-align: center; margin: 10px; width: 200px;">
-    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/3c9c4762-c8aa-40b2-99b1-d8df5dfa188f" alt="Overall" width="200"/>
+     <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/ce74db45-0033-41a1-98ee-8b413fa8e49e" alt="Profile Update" width="200"/>
+  
     <div>App</div>
   </div>
 
@@ -44,7 +45,7 @@
   </div>
 
   <div style="text-align: center; margin: 10px; width: 200px;">
-    <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/ce74db45-0033-41a1-98ee-8b413fa8e49e" alt="Profile Update" width="200"/>
+     <img src="https://github.com/lokeshimarathi/Silicon/assets/115028627/3c9c4762-c8aa-40b2-99b1-d8df5dfa188f" alt="Overall" width="200"/>
     <div>Profile Upadte</div>
   </div>
 <div style="text-align: center; margin: 10px; width: 200px;">
