@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div align="center">
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceRecognition-Javascript/assets/160750757/657130a9-50f2-486d-b6d5-b78bcec5e6e2.png" width=200/>
 </div>
@@ -62,3 +63,7 @@ If you want to get license, please contact us
 # Silicon
 An integrated security system to prevent fraudulent activities
 >>>>>>> origin/main
+=======
+# Silicon
+An integrated security system to prevent fraudulent activities
+>>>>>>> 92907f7671a26493b948fd6104a537d15d443b62

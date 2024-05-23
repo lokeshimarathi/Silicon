@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -18,6 +19,8 @@ local.properties
 # Ignore build directories
 **/build/
 =======
+=======
+>>>>>>> 92907f7671a26493b948fd6104a537d15d443b62
 # Gradle files
 .gradle/
 build/
@@ -51,4 +54,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+<<<<<<< HEAD
 >>>>>>> origin/main
+=======
+>>>>>>> 92907f7671a26493b948fd6104a537d15d443b62
